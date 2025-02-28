@@ -1,4 +1,3 @@
-[![Release](https://img.shields.io/github/v/release/kolobarista/Electrum-Dash?style=flat-square)](https://github.com/kolobarista/Electrum-Dash/releases/tag/v1.5.7)
 [![License](https://img.shields.io/github/license/kolobarista/Electrum-Dash?style=flat-square)](https://github.com/kolobarista/Electrum-Dash/blob/main/LICENSE)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg?style=flat-square)
 # Electrum-Dash Wallet
