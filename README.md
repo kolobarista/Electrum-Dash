@@ -112,7 +112,7 @@ git push origin feature/your-feature-name
 
 ## :star2: License
 
-Electrum-Dash is licensed under the **MIT License**. See the [LICENSE](https://github.com/kolobarista/Electrum-Dash/blob/main/LICENSE) file for more information.
+Electrum-Dash is licensed under the **MIT License**. See the [LICENSE](https://github.com/kolobarista/Electrum-Dash/blob/main/LICENCE) file for more information.
 
 ## :handshake: Acknowledgments
 
