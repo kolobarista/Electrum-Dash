@@ -66,7 +66,7 @@ electrum-dash
 
 ## :book: Documentation
 
-For detailed documentation on how to use Electrum-Dash, visit the [official website](https://electrum-dash.io) (coming soon).
+For detailed documentation on how to use Electrum-Dash, visit the [official website](https://dash.org) (coming soon).
 
 ### Related Resources
 - [Dash Official Website](https://www.dash.org)
