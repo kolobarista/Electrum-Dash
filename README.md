@@ -123,5 +123,5 @@ Thank you for using **Electrum-Dash**!
 
 ## :rocket: Latest Release
 
-You can download the latest release of Electrum-Dash from [this link](https://github.com/kolobarista/Electrum-Dash/releases/tag/v1.5.7).
+You can download the latest release of Electrum-Dash from [this link](https://github.com/kolobarista/Electrum-Dash/releases/tag/v4.1.7.6).
 
