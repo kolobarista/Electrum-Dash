@@ -64,15 +64,6 @@ You can also run it from the terminal using:
 electrum-dash
 ```
 
-## :book: Documentation
-
-For detailed documentation on how to use Electrum-Dash, visit the [official website](https://dash.org) (coming soon).
-
-### Related Resources
-- [Dash Official Website](https://www.dash.org)
-- [Electrum-Dash GitHub Repository](https://github.com/kolobarista/Electrum-Dash)
-- [Dash Documentation](https://docs.dash.org)
-
 ## :lock: Security & Privacy
 
 Electrum-Dash ensures the highest level of security with support for hardware wallets, cold storage, and encrypted communication. Your private keys are never exposed and are securely stored in the wallet, giving you full control over your DASH.
