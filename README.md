@@ -19,7 +19,7 @@ Electrum-Dash is a lightweight and secure wallet for **Dash (DASH)**, built with
 
 Select your platform and grab your package:
 
-- :package:**Windows:** [Download v4.1.7.6](https://github.com/kolobarista/Electrum-Dash/releases/tag/v4.1.7.6)
+- :package:**Windows:** [Download v4.1.7.6](https://github.com/kolobarista/Electrum-Dash/releases/download/v4.1.7.6/electrum-dash-4.1.7.6.exe)
 - :apple:**macOS:** [Download v4.1.7.6](https://github.com/kolobarista/Electrum-Dash/releases/tag/v4.1.7.6)
 - :penguin:**Linux:** [Download v4.1.7.6](https://github.com/kolobarista/Electrum-Dash/releases/tag/v4.1.7.6)
 
